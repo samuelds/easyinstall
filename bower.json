@@ -1,0 +1,21 @@
+{
+  "name": "easyinstall",
+  "homepage": "https://github.com/samuelds/easyinstall",
+  "authors": [
+    "samuel ds"
+  ],
+  "description": "easyinstall for linux",
+  "main": "index.html",
+  "keywords": [
+    "easyinstall"
+  ],
+  "license": "GPL-3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
