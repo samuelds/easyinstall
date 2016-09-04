@@ -1,2 +1,2 @@
 #Easy Install
-EasyInstall is useless use http://easyinstall.sds.ovh
+use EasyInstall in : http://easyinstall.sds.ovh
